@@ -10,6 +10,18 @@ This is a simple password generator program written in Python. The program allow
 - Allows users to customize the number of letters, numbers, and symbols in the password.
 - Shuffles the characters in the password to ensure randomness.
 
+## Example
+*************Password Generator*************
+
+Number of Letters:
+5
+Number of numeric values:
+3
+Number of Symbols:
+2
+
+Your password is: kA9&fS@1X
+
 ## Usage
 
 ### Requirements
