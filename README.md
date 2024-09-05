@@ -1,5 +1,3 @@
-# Code to generate README.md file
-readme_content = """
 # Password Generator
 
 ## Overview
